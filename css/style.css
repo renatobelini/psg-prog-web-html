@@ -1,0 +1,18 @@
+h2{
+    text-align: center;
+}
+p{
+    color: darkgreen;
+    background-color: darkgrey;
+}
+
+.fundo{
+    background-color: red;
+    margin: 2px 2px 2px 2px;
+    height: 20px;
+}
+
+.butao{
+    margin-top: 1px;
+    
+}
